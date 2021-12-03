@@ -5,12 +5,6 @@
 /build/
 /.allure/
 /allure-results/
-/scannerwork/
-/.scannerwork/
-.scannerwork/
-*.scannerwork/
-/.scannerwork
-.scannerwork
-*.scannerwork
+
 
 
