@@ -1,0 +1,9 @@
+/.idea/
+*.iml
+/out/
+/target/
+/build/
+/.allure/
+/allure-results/
+/scannerwork/
+/.gitignore/

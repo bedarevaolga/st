@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="InstallationFunctionality">
+    <parameter name="language" value="English"/>
+    <parameter name="year" value="1990"/>
+       <test name="SteamTest">
+        <classes>
+            <class name="steampowered.tests.ChoosingOfTheGameWithMaxDiscountTest">
+            </class>
+        </classes>
+    </test>
+</suite>
