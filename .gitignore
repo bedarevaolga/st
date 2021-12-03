@@ -6,11 +6,11 @@
 /.allure/
 /allure-results/
 /scannerwork/
-/.gitignore/
-.gitignore/
-*.gitignore/
-/.gitignore
-.gitignore
-*.gitignore
-/gitignore/
+/.scannerwork/
+.scannerwork/
+*.scannerwork/
+/.scannerwork
+.scannerwork
+*.scannerwork
+
 
